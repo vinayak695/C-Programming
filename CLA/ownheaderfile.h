@@ -1,0 +1,1 @@
+int display (int a,int b);
